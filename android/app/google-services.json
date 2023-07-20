@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "523373257310",
+    "project_id": "rmsdelivery-54555",
+    "storage_bucket": "rmsdelivery-54555.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523373257310:android:b1bbecb0085f6dc2b84acf",
+        "android_client_info": {
+          "package_name": "com.example.rms_delivery2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523373257310-r3sv8hls6e99phth8oo4fjkanu351tfg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rms_delivery2",
+            "certificate_hash": "7375bfe083521de76f4e3d68b0543ecd73b88dfd"
+          }
+        },
+        {
+          "client_id": "523373257310-2g7l008eko7kdhjmantcmj9404jhgidm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVo0yFfFFNL5oqpztUr1odhKZ6nFRbUxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523373257310-2g7l008eko7kdhjmantcmj9404jhgidm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "523373257310-6s2755qu35bcfitp29c2un5qdjgbjaqg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.deliveryAppUi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
